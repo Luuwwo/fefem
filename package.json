@@ -1,6 +1,6 @@
 {
   "name": "fefem-project",
-  "homepage":"https://Luuwwo.github.io/fefem.git",
+  "homepage":"https://Luuwwo.github.io/fefem",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
